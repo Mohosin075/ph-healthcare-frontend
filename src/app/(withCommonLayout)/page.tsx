@@ -3,7 +3,8 @@ import { Button } from "@mui/material";
 const HomePage = () => {
   return (
     <div>
-      <Button variant="contained">Text</Button>
+      <h1>Home page</h1>
+      <Button>Text</Button>
     </div>
   );
 };
